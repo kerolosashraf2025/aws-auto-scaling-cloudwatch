@@ -48,6 +48,30 @@ are available in the `screenshots/` directory.
 All AWS resources were terminated after testing to prevent unexpected billing.
 
 ---
+## 📸 Project Screenshots
 
+
+![CloudWatch Alarm](screenshots/17.jpg)
+![CloudWatch Alarm](screenshots/19.jpg)
+
+---
+
+
+![Auto Scaling Group](screenshots/5.jpg)
+![Auto Scaling Group](screenshots/16.jpg)
+
+---
+
+
+![Scaling Policy](screenshots/23.jpg)
+![Scaling Policy](screenshots/34.jpg)
+
+---
+
+
+![SNS Email](screenshots/35.jpg)
+
+![SNS Email](screenshots/37.jpg)
+---
 ## Author
 Kerolos Ashraf
